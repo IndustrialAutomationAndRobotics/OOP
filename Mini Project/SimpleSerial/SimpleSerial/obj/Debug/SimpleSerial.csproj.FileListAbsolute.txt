@@ -1,0 +1,9 @@
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\obj\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\obj\Debug\SimpleSerial.Form1.resources
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\obj\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\obj\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\obj\Debug\SimpleSerial.exe
+C:\Users\invader-PC\WorkSpace\MFI\OOP\Mini Project\SimpleSerial\SimpleSerial\obj\Debug\SimpleSerial.pdb

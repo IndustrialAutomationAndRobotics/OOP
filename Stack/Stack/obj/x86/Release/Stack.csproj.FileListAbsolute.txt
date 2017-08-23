@@ -1,0 +1,6 @@
+C:\Users\lab E211\AppData\Local\Temporary Projects\Stack\bin\Release\Stack.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\Stack\bin\Release\Stack.pdb
+C:\Users\lab E211\AppData\Local\Temporary Projects\Stack\obj\x86\Release\Stack.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\Stack\obj\x86\Release\Stack.pdb
+C:\Users\lab E211\Desktop\Stack\Stack\obj\x86\Release\Stack.exe
+C:\Users\lab E211\Desktop\Stack\Stack\obj\x86\Release\Stack.pdb

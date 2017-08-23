@@ -1,0 +1,6 @@
+C:\Users\lab E211\Documents\Botak Punyer\Lab 00\Lab 00\Lab 00\bin\Debug\Lab00.exe
+C:\Users\lab E211\Documents\Botak Punyer\Lab 00\Lab 00\Lab 00\bin\Debug\Lab00.pdb
+C:\Users\lab E211\Documents\Botak Punyer\Lab 00\Lab 00\Lab 00\obj\x86\Debug\Lab00.exe
+C:\Users\lab E211\Documents\Botak Punyer\Lab 00\Lab 00\Lab 00\obj\x86\Debug\Lab00.pdb
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\Lab 00\Lab 00\obj\x86\Debug\Lab00.exe
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\Lab 00\Lab 00\obj\x86\Debug\Lab00.pdb

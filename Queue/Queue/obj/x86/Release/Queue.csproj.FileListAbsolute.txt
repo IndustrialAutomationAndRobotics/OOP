@@ -1,0 +1,6 @@
+C:\Users\lab E211\AppData\Local\Temporary Projects\Queue\bin\Release\Queue.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\Queue\bin\Release\Queue.pdb
+C:\Users\lab E211\AppData\Local\Temporary Projects\Queue\obj\x86\Release\Queue.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\Queue\obj\x86\Release\Queue.pdb
+C:\Users\lab E211\Desktop\Queue\Queue\obj\x86\Release\Queue.exe
+C:\Users\lab E211\Desktop\Queue\Queue\obj\x86\Release\Queue.pdb

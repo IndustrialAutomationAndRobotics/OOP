@@ -1,0 +1,8 @@
+C:\Users\Lab E211\AppData\Local\Temporary Projects\lab01_partB\bin\Release\lab01_partB.exe
+C:\Users\Lab E211\AppData\Local\Temporary Projects\lab01_partB\bin\Release\lab01_partB.pdb
+C:\Users\Lab E211\AppData\Local\Temporary Projects\lab01_partB\obj\x86\Release\lab01_partB.exe
+C:\Users\Lab E211\AppData\Local\Temporary Projects\lab01_partB\obj\x86\Release\lab01_partB.pdb
+C:\Users\Lab E211\Desktop\lab01_partB\lab01_partB\obj\x86\Release\lab01_partB.exe
+C:\Users\Lab E211\Desktop\lab01_partB\lab01_partB\obj\x86\Release\lab01_partB.pdb
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partB\lab01_partB\obj\x86\Release\lab01_partB.exe
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partB\lab01_partB\obj\x86\Release\lab01_partB.pdb

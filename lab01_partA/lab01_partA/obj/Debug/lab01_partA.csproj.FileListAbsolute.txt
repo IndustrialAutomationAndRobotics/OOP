@@ -1,0 +1,7 @@
+G:\cSharp\lab01_partA\lab01_partA\bin\Debug\lab01_partA.exe.config
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partA\lab01_partA\bin\Debug\lab01_partA.exe.config
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partA\lab01_partA\bin\Debug\lab01_partA.exe
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partA\lab01_partA\bin\Debug\lab01_partA.pdb
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partA\lab01_partA\obj\Debug\lab01_partA.csprojResolveAssemblyReference.cache
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partA\lab01_partA\obj\Debug\lab01_partA.exe
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\lab01_partA\lab01_partA\obj\Debug\lab01_partA.pdb

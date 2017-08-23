@@ -1,0 +1,6 @@
+C:\Users\lab E211\AppData\Local\Temporary Projects\Searching\bin\Release\Searching.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\Searching\bin\Release\Searching.pdb
+C:\Users\lab E211\AppData\Local\Temporary Projects\Searching\obj\x86\Release\Searching.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\Searching\obj\x86\Release\Searching.pdb
+C:\Users\lab E211\Desktop\Searching\Searching\obj\x86\Release\Searching.exe
+C:\Users\lab E211\Desktop\Searching\Searching\obj\x86\Release\Searching.pdb

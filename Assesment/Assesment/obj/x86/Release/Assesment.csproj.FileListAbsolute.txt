@@ -1,0 +1,8 @@
+C:\Users\LabE211\AppData\Local\Temporary Projects\Assesment\bin\Release\Assesment.exe
+C:\Users\LabE211\AppData\Local\Temporary Projects\Assesment\bin\Release\Assesment.pdb
+C:\Users\LabE211\AppData\Local\Temporary Projects\Assesment\obj\x86\Release\Assesment.exe
+C:\Users\LabE211\AppData\Local\Temporary Projects\Assesment\obj\x86\Release\Assesment.pdb
+C:\Users\LabE211\Desktop\Assesment\Assesment\obj\x86\Release\Assesment.exe
+C:\Users\LabE211\Desktop\Assesment\Assesment\obj\x86\Release\Assesment.pdb
+C:\Users\LabE211\Desktop\Assesment\Assesment\bin\Release\Assesment.exe
+C:\Users\LabE211\Desktop\Assesment\Assesment\bin\Release\Assesment.pdb

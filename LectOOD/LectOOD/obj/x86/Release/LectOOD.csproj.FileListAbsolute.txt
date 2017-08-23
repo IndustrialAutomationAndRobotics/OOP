@@ -1,0 +1,8 @@
+C:\Users\lab E211\AppData\Local\Temporary Projects\LectOOD\bin\Release\LectOOD.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\LectOOD\bin\Release\LectOOD.pdb
+C:\Users\lab E211\AppData\Local\Temporary Projects\LectOOD\obj\x86\Release\LectOOD.exe
+C:\Users\lab E211\AppData\Local\Temporary Projects\LectOOD\obj\x86\Release\LectOOD.pdb
+C:\Users\lab E211\Desktop\LectOOD\LectOOD\obj\x86\Release\LectOOD.exe
+C:\Users\lab E211\Desktop\LectOOD\LectOOD\obj\x86\Release\LectOOD.pdb
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\LectOOD\LectOOD\obj\x86\Release\LectOOD.exe
+C:\Users\hazimgharib\Source\Repos\OOP_UNIKL\LectOOD\LectOOD\obj\x86\Release\LectOOD.pdb

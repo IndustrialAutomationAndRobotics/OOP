@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\Practice\PracticeLabTest2\StackPrctice\StackPrctice\bin\Release\StackPrctice.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\Practice\PracticeLabTest2\StackPrctice\StackPrctice\bin\Release\StackPrctice.pdb
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\Practice\PracticeLabTest2\StackPrctice\StackPrctice\obj\x86\Release\StackPrctice.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\Practice\PracticeLabTest2\StackPrctice\StackPrctice\obj\x86\Release\StackPrctice.pdb
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\Practice\PracticeLabTest2\StackPrctice\StackPrctice\obj\x86\Release\StackPrctice.csprojResolveAssemblyReference.cache
